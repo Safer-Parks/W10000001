@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "W10000001_lut",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"region_id":"W10000001","reg_name_e":"North Wales","reg_name_w":"Gogledd Cymru","authority_id":"W06000004","auth_name_e":"Denbighshire","auth_name_w":"Sir Ddinbych","country":"Wales","absolute_filepath":"Wales/W10000001/W06000004"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000001","reg_name_e":"North Wales","reg_name_w":"Gogledd Cymru","authority_id":"W06000003","auth_name_e":"Conwy","auth_name_w":"Conwy","country":"Wales","absolute_filepath":"Wales/W10000001/W06000003"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000001","reg_name_e":"North Wales","reg_name_w":"Gogledd Cymru","authority_id":"W06000005","auth_name_e":"Flintshire","auth_name_w":"Sir y Fflint","country":"Wales","absolute_filepath":"Wales/W10000001/W06000005"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000001","reg_name_e":"North Wales","reg_name_w":"Gogledd Cymru","authority_id":"W06000006","auth_name_e":"Wrexham","auth_name_w":"Wrecsam","country":"Wales","absolute_filepath":"Wales/W10000001/W06000006"},"geometry":null},
+{"type":"Feature","properties":{"region_id":"W10000001","reg_name_e":"North Wales","reg_name_w":"Gogledd Cymru","authority_id":"W06000001","auth_name_e":"Isle of Anglesey","auth_name_w":"Ynys Môn","country":"Wales","absolute_filepath":"Wales/W10000001/W06000001"},"geometry":null}
+]
+}
