@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_231_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lidl", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 63, "park_offical_id": "FLINT_231" }, "geometry": { "type": "Point", "coordinates": [ -3.140041767, 53.171035928 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 63, "park_offical_id": "FLINT_231" }, "geometry": { "type": "Point", "coordinates": [ -3.137253821, 53.166909762 ] } },
+{ "type": "Feature", "properties": { "name": "Bus station", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 63, "park_offical_id": "FLINT_231" }, "geometry": { "type": "Point", "coordinates": [ -3.14026447, 53.167892656 ] } },
+{ "type": "Feature", "properties": { "name": "Daniel Owen centre", "payment_info": "Free", "accessible": "Unknown", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 63, "park_offical_id": "FLINT_231" }, "geometry": { "type": "Point", "coordinates": [ -3.143104448, 53.166960725 ] } }
+]
+}

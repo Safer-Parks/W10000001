@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "ISLAN_22_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Menai bridge beach road", "payment_info": "20p", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "ISLAN_22" }, "geometry": { "type": "Point", "coordinates": [ -4.16199646, 53.2230067 ] } },
+{ "type": "Feature", "properties": { "name": "Waitrose", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-20:00", "Tue": "08:00-20:00", "Wed": "08:00-20:00", "Thu": "08:00-20:00", "Fri": "08:00-21:00", "Sat": "08:00-20:00", "Sun": "10:00-16:00", "index_right": 19, "park_offical_id": "ISLAN_22" }, "geometry": { "type": "Point", "coordinates": [ -4.166720692, 53.222976263 ] } },
+{ "type": "Feature", "properties": { "name": "Menai Bridge Surgery", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "ISLAN_22" }, "geometry": { "type": "Point", "coordinates": [ -4.163343524, 53.227586477 ] } },
+{ "type": "Feature", "properties": { "name": "Menai bridge by library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 19, "park_offical_id": "ISLAN_22" }, "geometry": { "type": "Point", "coordinates": [ -4.16471748, 53.22521904 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CONWY_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Llandudno George Street", "payment_info": "050", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 65, "park_offical_id": "CONWY_50" }, "geometry": { "type": "Point", "coordinates": [ -3.8313669, 53.324594 ] } },
+{ "type": "Feature", "properties": { "name": "West Beach", "payment_info": "20p", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 65, "park_offical_id": "CONWY_50" }, "geometry": { "type": "Point", "coordinates": [ -3.8448075, 53.3200063 ] } }
+]
+}
