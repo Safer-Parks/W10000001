@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DENBI_6_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 125, "park_offical_id": "DENBI_6" }, "geometry": { "type": "Point", "coordinates": [ -3.402437077, 53.336523748 ] } },
+{ "type": "Feature", "properties": { "name": "Prestatyn bus station", "payment_info": "30", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 125, "park_offical_id": "DENBI_6" }, "geometry": { "type": "Point", "coordinates": [ -3.405622045, 53.334597974 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 125, "park_offical_id": "DENBI_6" }, "geometry": { "type": "Point", "coordinates": [ -3.4035418, 53.3350227 ] } },
+{ "type": "Feature", "properties": { "name": "Costa ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 125, "park_offical_id": "DENBI_6" }, "geometry": { "type": "Point", "coordinates": [ -3.4045987, 53.335981899 ] } }
+]
+}
