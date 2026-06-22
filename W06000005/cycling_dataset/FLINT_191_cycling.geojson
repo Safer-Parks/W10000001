@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_191_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9917115,53.1504219],[-2.9915612,53.150632],[-2.9912447,53.1510838],[-2.9907532,53.1517078],[-2.9904659,53.1521022],[-2.9902424,53.1524046],[-2.9900637,53.1526611],[-2.9900445,53.1528104],[-2.9899424,53.1529636],[-2.9896743,53.1532239],[-2.9892002,53.1538265],[-2.9881198,53.1552567],[-2.9867185,53.1571286],[-2.9853459,53.1589545],[-2.9852483,53.1591041]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9929005,53.1656698],[-2.9928279,53.1656161],[-2.9927132,53.1656073]]]}}
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "ISLAN_17_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.2608136,53.2056777],[-4.2599029,53.205146],[-4.2594462,53.2048287],[-4.258868,53.204309],[-4.2587428,53.2041965],[-4.2582131,53.2035989],[-4.2571,53.202467],[-4.2567419,53.2021345],[-4.2548413,53.2008609],[-4.2547732,53.2007961]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.255741,53.2001483],[-4.2554761,53.2003109],[-4.2552641,53.2004378],[-4.2549463,53.2006322],[-4.2548188,53.2007111],[-4.2547877,53.2007383],[-4.2547734,53.2007584],[-4.2547732,53.2007961]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-4.258868,53.204309],[-4.2587394,53.2043655],[-4.25841,53.2045008],[-4.2580768,53.2046914],[-4.2577974,53.2048455]]]}}
+]
+}

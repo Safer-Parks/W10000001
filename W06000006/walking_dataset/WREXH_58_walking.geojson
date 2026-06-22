@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "WREXH_58_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9566509,53.0916042],[-2.9565134,53.0910129]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9572411,53.0967502],[-2.9570604,53.0967556],[-2.9569692,53.0966976],[-2.9567895,53.0963948],[-2.9565606,53.0961739],[-2.9563389,53.0960518],[-2.956119,53.0960147],[-2.9559768,53.0959229],[-2.9562048,53.095786],[-2.956236,53.0956956]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9558359,53.0944122],[-2.9559236,53.0943883]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.9561284,53.0942957],[-2.9564834,53.0941324],[-2.9571377,53.093925]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-2.959181,53.0935768],[-2.9592252,53.0936162],[-2.9590676,53.0939865]]]}}
+]
+}

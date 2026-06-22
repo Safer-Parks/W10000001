@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_52_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0785372,53.1625778],[-3.0787014,53.1625234],[-3.0792763,53.1625128]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0828277,53.1608385],[-3.0823223,53.1609009],[-3.0818401,53.160895],[-3.0814679,53.1609365],[-3.0813979,53.1610292],[-3.0809251,53.1612657],[-3.0808022,53.1612924],[-3.0803379,53.1613025],[-3.0801471,53.161272],[-3.0800411,53.161286],[-3.0796552,53.1613203],[-3.0793647,53.1613019]]]}}
+]
+}

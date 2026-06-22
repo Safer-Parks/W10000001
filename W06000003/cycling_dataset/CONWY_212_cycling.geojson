@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CONWY_212_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7304399,53.2702286],[-3.7301353,53.2702255],[-3.7288307,53.2699278],[-3.7275647,53.2697481],[-3.7262643,53.2693605],[-3.7255114,53.2691418],[-3.7250327,53.269127]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7263691,53.2730999],[-3.7263782,53.2728293],[-3.7263799,53.2727809],[-3.726294,53.2727834],[-3.725996,53.2727729]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7263799,53.2727809],[-3.7268047,53.2726654],[-3.7274399,53.2724139],[-3.7287746,53.2714001],[-3.7294912,53.2709048]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.7309696,53.2697358],[-3.7308517,53.2695189],[-3.7307959,53.2692186],[-3.7307057,53.2687617],[-3.7305899,53.268482],[-3.7300963,53.2680431],[-3.72962,53.2678378],[-3.7292767,53.2677197],[-3.7292552,53.2675939],[-3.7293968,53.2675452]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.730921,53.2698827],[-3.7309976,53.2700502],[-3.7311478,53.2701657],[-3.7311134,53.2705481]]]}}
+]
+}

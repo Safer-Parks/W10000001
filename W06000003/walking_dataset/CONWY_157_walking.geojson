@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "CONWY_157_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5115997,53.2065542],[-3.5115649,53.206351],[-3.511415,53.2061491],[-3.5111581,53.205881]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5055104,53.2083258],[-3.5053244,53.2083595],[-3.5051107,53.2083724],[-3.5045157,53.2084145],[-3.5040668,53.2084324],[-3.5039992,53.2084275],[-3.5039694,53.2084097],[-3.5039478,53.2083805]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5026694,53.2120231],[-3.5027296,53.2119442],[-3.5028556,53.2118567],[-3.503036,53.2117333],[-3.5032393,53.2115858],[-3.5034358,53.2114255]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5053031,53.2155674],[-3.5051938,53.2155837],[-3.5050997,53.2155874],[-3.5049847,53.2155799],[-3.5048488,53.2155586],[-3.5047275,53.2155298],[-3.5042988,53.2153896],[-3.503868,53.2152356],[-3.503755,53.2151942]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.5057464,53.2157506],[-3.5056726,53.2158207]]]}},
+{"type":"Feature","properties":{"highway":"footway","name":null,"category":"Footpath (pedestrian only)"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.4985354,53.2144487],[-3.4989304,53.2145834],[-3.4997068,53.214803],[-3.501094,53.2150098],[-3.5022993,53.2148973],[-3.5029213,53.2148705],[-3.5033055,53.2149935],[-3.503755,53.2151942]]]}}
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WREXH_15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0224419,53.0156794],[-3.0217759,53.015665],[-3.0214507,53.0156259],[-3.0212122,53.0155574],[-3.021049,53.0154763],[-3.0209858,53.0154402],[-3.020895,53.0153885],[-3.0208108,53.0153243]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0209858,53.0154402],[-3.0206547,53.0155207],[-3.0202562,53.0156085],[-3.0200657,53.0156184],[-3.019662,53.0156048],[-3.0195665,53.0156072],[-3.0192605,53.0156474],[-3.0190273,53.0157178]]]}}
+]
+}

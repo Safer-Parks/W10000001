@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_40_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0568915,53.1748239],[-3.0570917,53.1748272],[-3.0574093,53.1748786],[-3.0577183,53.1749198]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0571834,53.1795316],[-3.0573712,53.1796282],[-3.0575384,53.1797237],[-3.0577144,53.1798682],[-3.0578676,53.1799768],[-3.0580346,53.1800743],[-3.0584981,53.1802321],[-3.0586263,53.1803019],[-3.0587498,53.1803997],[-3.0588018,53.1804651],[-3.0588151,53.1805282],[-3.058835,53.1806274],[-3.0589698,53.1806906],[-3.0593903,53.1807897],[-3.0599777,53.1809284],[-3.0600456,53.180945],[-3.0601015,53.1809707],[-3.0601276,53.1809999]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.071932,53.1821181],[-3.0702365,53.1819124],[-3.0698918,53.1818771],[-3.0697356,53.1818389],[-3.0696651,53.181787],[-3.069674,53.181712],[-3.0698641,53.1813926],[-3.0699849,53.1813281],[-3.0702297,53.1809698]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.066894,53.1840134],[-3.0678283,53.1834073],[-3.0684796,53.1829022],[-3.0690231,53.1825982],[-3.0696356,53.1820446],[-3.0698918,53.1818771]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0507633,53.1758857],[-3.0504214,53.1762333],[-3.0503932,53.1762619],[-3.0498559,53.1769266],[-3.0495403,53.1775222],[-3.0490413,53.1786059],[-3.0489261,53.1787635],[-3.048865,53.178847]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0515549,53.173319],[-3.0509484,53.173309],[-3.0509538,53.1738524],[-3.0515305,53.1750433]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0514258,53.1753764],[-3.0507633,53.1758857]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0522501,53.173876],[-3.0522373,53.173899],[-3.0521455,53.1740641]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0733502,53.1775153],[-3.0731638,53.1775707],[-3.0729049,53.1775876],[-3.0727239,53.1777138],[-3.0724825,53.1777403],[-3.0722596,53.1777744]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.068938,53.1699656],[-3.0689661,53.1699497],[-3.0689682,53.1699364]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0617661,53.1657324],[-3.0617429,53.1655848],[-3.0615002,53.1650509],[-3.0614251,53.1650148],[-3.06135,53.1650059]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0515305,53.1750433],[-3.0521455,53.1740641]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0700062,53.1809296],[-3.0699675,53.181088],[-3.0698887,53.1813202],[-3.0698641,53.1813926]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0515305,53.1750433],[-3.0515063,53.1751932],[-3.0514258,53.1753764]]]}},
+{"type":"Feature","properties":{"highway":"bridleway","name":null,"category":"Bridleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0555654,53.1758886],[-3.0556684,53.175165]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0646267,53.1820282],[-3.0643683,53.1820668]]]}},
+{"type":"Feature","properties":{"highway":"track","name":"Buckley Heritage Trail","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-3.0634691,53.1803082],[-3.0643675,53.1810001],[-3.0644024,53.1814462],[-3.0646267,53.1820282],[-3.0648865,53.1827175],[-3.0649977,53.1828527],[-3.065193,53.182983],[-3.0657236,53.1831798],[-3.0668417,53.1839748],[-3.066894,53.1840134]]]}}
+]
+}
