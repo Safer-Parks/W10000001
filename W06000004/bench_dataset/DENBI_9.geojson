@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "DENBI_9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3914381627, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4474495, 53.2570257 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3914381628, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.447483, 53.2572848 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3914381631, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4475662, 53.2575279 ] } }
+]
+}

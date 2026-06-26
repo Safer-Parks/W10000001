@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ISLAN_105",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13133225109, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.0881161, 53.2931623 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13133236513, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -4.0880502, 53.2932171 ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11753458342, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0687949, 53.1767724 ] } }
+]
+}

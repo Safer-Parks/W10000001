@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "DENBI_36",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 3914405491, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4464874, 53.2559671 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3914405490, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4467449, 53.2560192 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3914405489, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4467797, 53.2561813 ] } },
+{ "type": "Feature", "properties": { "osm_id": 3914405488, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.4467381, 53.2562808 ] } }
+]
+}

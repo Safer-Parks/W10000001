@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CONWY_29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13730188858, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9756207, 53.2598327 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13730188856, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9752421, 53.2598469 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13730188857, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.9756521, 53.2598716 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13730188855, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.975331, 53.2599592 ] } }
+]
+}

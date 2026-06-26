@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WREXH_60",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11899051469, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9609762, 53.0895641 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11899011866, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -2.9612109, 53.0898025 ] } }
+]
+}
