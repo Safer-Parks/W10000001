@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_50",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8821337265, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0469808, 53.2147888 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8821337266, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0469355, 53.2147913 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8821337268, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.046798, 53.2148337 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8821337269, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0467802, 53.214849 ] } }
+]
+}

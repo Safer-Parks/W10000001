@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DENBI_1198",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5939422629, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.411859, 53.1869262 ] } }
+]
+}

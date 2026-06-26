@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_510",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13159729489, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0377737, 53.2117047 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13159729488, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.0378904, 53.2117376 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CONWY_46",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11913720820, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.8510072, 53.1266107 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11913720821, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -3.8508638, 53.126624 ] } }
+]
+}
