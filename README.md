@@ -1,14 +1,16 @@
 # Safer Parks data: `North Wales` (`W10000001`)
 
+[![Zenodo doi](https://zenodo.org/badge/1269552915.svg)](https://doi.org/10.5281/zenodo.23922828)
+
 Regional dataset for the [Safer Parks Dashboard](https://safer-parks.github.io/), covering parks in North Wales (England/Wales). The data in this repository is loaded directly by the dashboard from `https://raw.githubusercontent.com/Safer-Parks/W10000001/refs/heads/main`.
 
 ## Citation
 
-> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: North Wales, (Version V0.1.0). University of Leeds. DOI HERE. Accessed: *Insert today's date*.
+> Francesca Pontin, Anna Barker, Melissa Barrientos-Trinanes, Victoria Houlden, Maeve Murphy Quinlan (2026): The Safer Parks Dashboard Data: North Wales, (Version V0.1.0). University of Leeds. 10.5281/zenodo.23922828. Accessed: *Insert today's date*.
 
 | Field | Value |
 |------------------------------------|------------------------------------|
-| DOI | `[DOI – pending Zenodo release]` |
+| DOI | 10.5281/zenodo.23922828 |
 | Version | V0.1.0 |
 | Release date | 01-11-2026 |
 | Authors / creators | Francesca Pontin, Anna Barker, Melissa Barrientos, Victoria Houlden, Maeve Murphy Quinlan |
