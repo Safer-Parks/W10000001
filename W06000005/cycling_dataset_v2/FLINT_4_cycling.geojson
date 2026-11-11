@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_4_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 23744707, "highway": "service", "name": null, "category": "Traffic-free road", "bicycle": "yes", "access": "private", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0636357, 53.1964156 ], [ -3.0633698, 53.1966835 ], [ -3.0630087, 53.1969308 ], [ -3.0628795, 53.1970267 ], [ -3.0628052, 53.1971761 ], [ -3.06281, 53.1972406 ], [ -3.0628155, 53.1973147 ], [ -3.0628258, 53.1974525 ], [ -3.0628813, 53.1977451 ], [ -3.0628538, 53.1979029 ], [ -3.0628322, 53.1980268 ], [ -3.0628202, 53.198643 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 48701567, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0656093, 53.2085038 ], [ -3.065409, 53.2085735 ], [ -3.06526, 53.2086913 ], [ -3.0651722, 53.2087606 ], [ -3.0651208, 53.2088039 ], [ -3.0649188, 53.2089103 ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "FLINT_76_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 1077949080, "highway": "residential", "name": "Bilberry Grove", "category": "Traffic-free road", "bicycle": "designated", "access": "no", "foot": "yes", "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0887055, 53.1725272 ], [ -3.0887525, 53.1725017 ], [ -3.088763, 53.1724961 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 908392280, "highway": "cycleway", "name": "Elfed Drive", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ -3.0886024, 53.1740543 ], [ -3.0885874, 53.1740399 ], [ -3.0885612, 53.1740107 ], [ -3.0885223, 53.1739609 ], [ -3.0884707, 53.1738915 ], [ -3.0884496, 53.1738179 ], [ -3.0884332, 53.1737442 ], [ -3.0884069, 53.1737085 ], [ -3.0883902, 53.1736857 ], [ -3.08826, 53.1736121 ], [ -3.0882323, 53.1735918 ] ] } }
+]
+}
