@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WREXH_29_walking",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 283788958, "highway": "footway", "name": null, "category": "Footpath (pedestrian only)", "foot": null, "access": null, "designatn": null, "footway": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -2.9031301, 53.0523843 ], [ -2.9013844, 53.0528228 ], [ -2.9003944, 53.0529688 ], [ -2.8985264, 53.0530249 ], [ -2.8964561, 53.0535015 ], [ -2.8958925, 53.0536313 ], [ -2.8912972, 53.0545407 ], [ -2.8892611, 53.0542151 ], [ -2.886107, 53.055012 ] ] } }
+]
+}
